@@ -14,6 +14,7 @@ def fight():
     # else:
     #     print("DRAW")
 
+    # 三目运算
     print("I win") if my_final_hp > enemy_hp else print("I fail")
 
 
